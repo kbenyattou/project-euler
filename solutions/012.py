@@ -17,7 +17,7 @@ def divisorctr(n):
     return len(setofdivisors)
 
 # A function that tests successive triangular numbers for their number of
-# divisors until the input (desired) number of divisors.
+# divisors until the input (desired) number of divisors is reached.
 
 def at_least(y):
     i = 0

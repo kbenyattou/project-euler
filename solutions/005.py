@@ -21,4 +21,4 @@ def evendivtest(n):
         if divtest(i,n) == 1:
             return i
 
-print(f"The smallest number that is evenly divisible by 1 through {20} is {evendivtest(20)}.")
+print(f"The smallest number that is evenly divisible by 1 through 20 is {evendivtest(20)}.")
